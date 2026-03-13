@@ -1,0 +1,204 @@
+{
+  "collections": {
+    "projects": {
+      "mobile-banking-app": {
+        "id": "mobile-banking-app",
+        "title": "Mobile Banking App",
+        "shortDescription": "A full-featured banking application with real-time transaction updates, secure authentication, and intuitive financial dashboards.",
+        "fullDescription": "A comprehensive mobile banking solution built with Flutter, providing users with seamless access to their financial accounts. The app features real-time transaction updates, secure biometric authentication, intuitive financial dashboards with spending analytics, and support for various banking operations including transfers, bill payments, and account management.",
+        "tags": ["Flutter", "Firebase", "Dart", "REST API"],
+        "githubUrl": "https://github.com/yourusername/mobile-banking-app",
+        "liveUrl": "https://yourdemo.com",
+        "date": "January 2024",
+        "category": "Finance",
+        "imageUrl": "https://firebasestorage.googleapis.com/...",
+        "features": [
+          "Real-time transaction monitoring and notifications",
+          "Biometric authentication (Face ID / Touch ID)",
+          "Interactive spending analytics and budgeting tools",
+          "Secure money transfers and bill payments",
+          "Multi-account management",
+          "Card controls and security settings"
+        ],
+        "technologies": [
+          {
+            "name": "Flutter",
+            "description": "Cross-platform mobile framework"
+          },
+          {
+            "name": "Firebase",
+            "description": "Backend and authentication"
+          },
+          {
+            "name": "REST API",
+            "description": "Banking services integration"
+          },
+          {
+            "name": "Dart",
+            "description": "Programming language"
+          }
+        ],
+        "challenges": "Implementing robust security measures while maintaining a smooth user experience was the primary challenge. We used multi-layer encryption, secure token storage, and implemented real-time fraud detection algorithms.",
+        "outcome": "Successfully launched with 50K+ downloads in the first month, maintaining a 4.8-star rating. Reduced transaction processing time by 40% compared to legacy systems.",
+        "order": 1,
+        "createdAt": "2024-01-15T00:00:00.000Z",
+        "updatedAt": "2024-01-15T00:00:00.000Z"
+      },
+      "ecommerce-platform": {
+        "id": "ecommerce-platform",
+        "title": "E-Commerce Platform",
+        "shortDescription": "Cross-platform mobile marketplace with product browsing, shopping cart, payment integration, and order tracking.",
+        "fullDescription": "A fully-featured e-commerce mobile application that provides a seamless shopping experience. Built with Flutter for cross-platform compatibility, integrated with Firestore for real-time data synchronization, and Stripe for secure payment processing.",
+        "tags": ["Flutter", "Firestore", "Stripe", "Provider"],
+        "githubUrl": "https://github.com/yourusername/ecommerce-platform",
+        "liveUrl": "https://yourdemo.com",
+        "date": "December 2023",
+        "category": "E-Commerce",
+        "imageUrl": "https://firebasestorage.googleapis.com/...",
+        "features": [
+          "Advanced product search and filtering",
+          "Real-time inventory updates",
+          "Secure payment processing with multiple methods",
+          "Order tracking and history",
+          "Push notifications for deals and updates",
+          "Wishlist and favorites management"
+        ],
+        "technologies": [
+          {
+            "name": "Flutter",
+            "description": "Cross-platform development"
+          },
+          {
+            "name": "Firestore",
+            "description": "Real-time database"
+          },
+          {
+            "name": "Stripe",
+            "description": "Payment processing"
+          },
+          {
+            "name": "Provider",
+            "description": "State management"
+          }
+        ],
+        "challenges": "Managing complex state across multiple screens and ensuring smooth performance with large product catalogs required careful architecture planning and optimization.",
+        "outcome": "Achieved 100K+ active users within 3 months, with average session duration of 12 minutes and conversion rate of 3.5%.",
+        "order": 2,
+        "createdAt": "2023-12-01T00:00:00.000Z",
+        "updatedAt": "2023-12-01T00:00:00.000Z"
+      }
+    },
+    "about": {
+      "main": {
+        "id": "main",
+        "name": "Aqeel Ahmad",
+        "title": "Software Engineer specializing in Flutter",
+        "bio": [
+          "I'm a passionate Software Engineer with expertise in building high-quality mobile applications using Flutter. With years of experience in mobile development, I focus on creating scalable, performant applications with clean architecture.",
+          "My approach combines technical excellence with user-centric design, ensuring that every product I build not only works flawlessly but also delivers an exceptional user experience.",
+          "I'm constantly learning and exploring new technologies to stay at the forefront of mobile development innovation."
+        ],
+        "profileImageUrl": "https://firebasestorage.googleapis.com/...",
+        "skills": [
+          {
+            "name": "Flutter",
+            "category": "Mobile Development",
+            "proficiency": 95,
+            "icon": "flutter"
+          },
+          {
+            "name": "Dart",
+            "category": "Programming Language",
+            "proficiency": 90,
+            "icon": "dart"
+          },
+          {
+            "name": "Firebase",
+            "category": "Backend",
+            "proficiency": 85,
+            "icon": "firebase"
+          },
+          {
+            "name": "REST APIs",
+            "category": "Integration",
+            "proficiency": 90,
+            "icon": "api"
+          },
+          {
+            "name": "State Management (BLoC, Provider, Riverpod)",
+            "category": "Architecture",
+            "proficiency": 88,
+            "icon": "architecture"
+          },
+          {
+            "name": "Git & GitHub",
+            "category": "Version Control",
+            "proficiency": 85,
+            "icon": "git"
+          }
+        ],
+        "experience": "5+ years in mobile development",
+        "education": "Bachelor's in Computer Science",
+        "resumeUrl": "/resume.pdf",
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      }
+    },
+    "contact": {
+      "main": {
+        "id": "main",
+        "email": "aqeel@example.com",
+        "github": "https://github.com/yourusername",
+        "linkedin": "https://linkedin.com/in/yourusername",
+        "whatsapp": "https://wa.me/1234567890",
+        "phone": "+1 234 567 890",
+        "location": "Your City, Country",
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      }
+    },
+    "hero": {
+      "main": {
+        "id": "main",
+        "heading": "Hi, I'm Aqeel – a Software Engineer specializing in Flutter",
+        "subheading": "Building Beautiful Mobile Experiences",
+        "description": "I create high-quality, scalable mobile apps with smooth performance and intuitive design. My focus is on building reliable products that users love.",
+        "heroImageUrl": "https://firebasestorage.googleapis.com/...",
+        "ctaPrimaryText": "View My Projects",
+        "ctaPrimaryLink": "#projects",
+        "ctaSecondaryText": "Download Resume",
+        "ctaSecondaryLink": "/resume.pdf",
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      }
+    },
+    "socials": {
+      "main": {
+        "id": "main",
+        "github": "https://github.com/yourusername",
+        "linkedin": "https://linkedin.com/in/yourusername",
+        "whatsapp": "https://wa.me/1234567890",
+        "email": "mailto:aqeel@example.com",
+        "twitter": "https://twitter.com/yourusername",
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      }
+    },
+    "profile": {
+      "main": {
+        "id": "main",
+        "imageUrl": "https://firebasestorage.googleapis.com/your-profile-image.jpg",
+        "altText": "Aqeel Ahmad - Profile Picture",
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      }
+    }
+  },
+  "notes": {
+    "timestamp_fields": "In Firestore console, use 'timestamp' type for createdAt and updatedAt fields",
+    "arrays": "Use Firestore's array type for tags, features, bio, and skills",
+    "maps": "Use Firestore's map type for nested objects like technologies array items and skills array items",
+    "order_field": "The 'order' field in projects controls the display order (lower numbers appear first)",
+    "optional_fields": "Fields marked as optional in the schema can be omitted if not needed"
+  }
+}
